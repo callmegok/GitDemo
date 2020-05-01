@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2020-04-26T22:52:21 IST" finished-at="2020-04-26T22:52:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62" started-at="2020-04-26T22:52:21 IST" finished-at="2020-04-26T22:52:21 IST">
+      <class name="Exam.Test3">
+        <test-method status="PASS" signature="Student2(java.lang.String, java.lang.String)[pri:0, instance:Exam.Test3@65e2dbf3]" name="Student2" duration-ms="8" started-at="2020-04-26T22:52:21 IST" data-provider="getdatas" finished-at="2020-04-26T22:52:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Student2 -->
+        <test-method status="PASS" signature="Student2(java.lang.String, java.lang.String)[pri:0, instance:Exam.Test3@65e2dbf3]" name="Student2" duration-ms="1" started-at="2020-04-26T22:52:21 IST" data-provider="getdatas" finished-at="2020-04-26T22:52:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Student2 -->
+        <test-method status="PASS" signature="Student2(java.lang.String, java.lang.String)[pri:0, instance:Exam.Test3@65e2dbf3]" name="Student2" duration-ms="1" started-at="2020-04-26T22:52:21 IST" data-provider="getdatas" finished-at="2020-04-26T22:52:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username 3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Student2 -->
+      </class> <!-- Exam.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
